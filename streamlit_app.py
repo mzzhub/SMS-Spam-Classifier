@@ -45,7 +45,7 @@ with open('vectorizer.pkl','rb') as file:
 
 st.title('🎈 Email/SMS Spam Classifier')
 
-input_sms = st.text_input("Enter the message here...")
+input_sms = st.text_area("Enter the message here...")
 
 # Pre process
 transformed_sms = transform_text(input_sms)
