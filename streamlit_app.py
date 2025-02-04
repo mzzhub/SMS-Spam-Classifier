@@ -3,9 +3,9 @@ import pickle
 import string
 import nltk
 from nltk.corpus import stopwords
-from nltk.stem.poter import PotterStemmer
+from nltk.stem.porter import PorterStemmer
 
-ps = PotterStemmer()
+ps = PorterStemmer()
 
 def transform_text(text):
     text = nltk.word_tokenize(text.lower())
