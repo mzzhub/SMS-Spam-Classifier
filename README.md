@@ -19,6 +19,11 @@ This project is an SMS Spam Classifier that uses machine learning to distinguish
 - Text preprocessing includes tokenization and vectorization (stored in `vectorizer.pkl`).
 - The trained model is saved as `model.pkl` for future predictions.
 
+## Requirements
+- Streamlit
+- Nltk
+- Scikit-learn
+
 ## Contributions
 Feel free to fork, improve, and submit pull requests.
 
