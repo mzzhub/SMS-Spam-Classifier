@@ -26,5 +26,5 @@ Feel free to fork, improve, and submit pull requests.
 This project is open-source. Modify and use it as needed.
 
 ## 🧑‍💻 Try the app.
-[](https://sms-spam-classifier-by-mz.streamlit.app/)
+[![image](https://github.com/user-attachments/assets/083fac81-15b5-46ad-a694-d94d9c23f68d)](https://sms-spam-classifier-by-mz.streamlit.app/)
 
