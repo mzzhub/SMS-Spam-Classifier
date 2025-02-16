@@ -20,6 +20,7 @@ This project is an SMS Spam Classifier that uses machine learning to distinguish
 - The trained model is saved as `model.pkl` for future predictions.
 
 ## Requirements
+- Python
 - Streamlit
 - Nltk
 - Scikit-learn
